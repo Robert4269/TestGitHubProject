@@ -1,3 +1,3 @@
 # TestGitHubProject
 
-Jeg er sej (ikke Magne)
+Jeg er sej (Magne)
