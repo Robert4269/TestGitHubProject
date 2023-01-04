@@ -4,4 +4,7 @@ function setup() {
 
 function draw() {
   background(220);
+
+  console.log("Du er gay hv is du læser det her");
+  
 }
