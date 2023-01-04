@@ -5,3 +5,7 @@ function setup() {
 function draw() {
   background(220);
 }
+
+function hello(){
+  console.log('Hello world');
+}
