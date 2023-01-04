@@ -8,7 +8,7 @@ function draw() {
 
 function RigoFunction(){
   console.log("RigoMadeThisFunction")
-  console.log("also do thi")
+  console.log("also do thit")
 }
 
 
