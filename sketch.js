@@ -9,3 +9,7 @@ function draw() {
 function rigofunction(){
   console.log("lol")
 }
+
+
+
+console.log("sdffds")
